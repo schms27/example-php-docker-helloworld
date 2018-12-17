@@ -55,6 +55,7 @@
       <div class="starter-template">
         <h1>Hallo <?php echo 'dir geile Sieche'?></h1>
         <p class="lead">APPUiO Example Dockerfile PHP</p>
+		<b>Was isch de hie los?</b>
       </div>
 
     </div>
